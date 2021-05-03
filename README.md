@@ -1,16 +1,18 @@
-### Hi there 👋
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
-<!--
-**Apriil15/apriil15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello World, I'm Apriil.**
 
-Here are some ideas to get you started:
+- Learning: Golang ⚡ | Open Source 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Blog: https://apriil15.github.io/ ✍️
+
+- Func fact: left-handed 😎
+
+**GitHub Stats**
+
+<p>
+  <img
+    alt="Apriil's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Apriil15&show_icons=true&theme=radical"
+  />
+</p>
