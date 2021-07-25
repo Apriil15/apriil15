@@ -2,7 +2,7 @@
 
 **Hello World, I'm Apriil.**
 
-- Learning: Golang ⚡ | Open Source 🔥
+- Learning: TypeScript、Node.js、Golang ⚡ | Open Source 🔥
 
 - Blog: https://apriil15.github.io/ ✍️
 
