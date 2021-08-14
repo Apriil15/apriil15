@@ -2,7 +2,7 @@
 
 **Hello World, I'm Apriil.**
 
-- Learning: TypeScript、Node.js、Golang ⚡ | Open Source 🔥
+- Learning: JavaScript、TypeScript、Node.js ⚡ | Open Source 🔥
 
 - Blog: https://apriil15.github.io/ ✍️
 
