@@ -10,9 +10,6 @@
 
 **GitHub Stats**
 
-<p>
-  <img
-    alt="Apriil's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Apriil15&show_icons=true&theme=radical"
-  />
-</p>
+![Apriil's Github Stats](https://github-readme-stats.vercel.app/api?username=Apriil15&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apriil15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
