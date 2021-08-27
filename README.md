@@ -1,12 +1,10 @@
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
-
 **Hello World, I'm Apriil.**
 
 - Learning: JavaScript、TypeScript、Node.js ⚡ | Open Source 🔥
 
 - Blog: https://apriil15.github.io/ ✍️
 
-- Func fact: left-handed 😎
+- Fun fact: left-handed 😎
 
 **GitHub Stats**
 
