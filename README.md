@@ -1,6 +1,6 @@
-**Hello World, I'm Apriil.**
+**Hello World!**
 
-- Learning: JavaScript、TypeScript、Node.js ⚡ | Open Source 🔥
+- Learning: TypeScript、Node.js ⚡ | Open Source 🔥
 
 - Blog: https://apriil15.github.io/ ✍️
 
