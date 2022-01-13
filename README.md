@@ -1,6 +1,6 @@
 **Hello World!**
 
-- Learning: TypeScript、Node.js ⚡ | Open Source 🔥
+- Learning: TypeScript, Node.js, GCP ⚡ | Open Source 🔥
 
 - Blog: https://apriil15.github.io/ ✍️
 
