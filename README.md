@@ -2,7 +2,7 @@
 
 - Learning: NodeJS (TypeScript), Golang, Kubernetes ⚡ | Open Source 🔥
 
-- Blog: https://apriil15.github.io/ ✍️
+- Blog: https://april15.dev/ ✍️
 
 - Fun fact: left-handed 😎
 
