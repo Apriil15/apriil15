@@ -1,6 +1,6 @@
 **To The Moon!**
 
-- Learning: NodeJS (TypeScript), Golang, Kubernetes ⚡ | Open Source 🔥
+- Learning: Golang, AWS ⚡ | Open Source 🔥
 
 - Blog: https://april15.dev/ ✍️
 
